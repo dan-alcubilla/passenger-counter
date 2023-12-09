@@ -1,10 +1,5 @@
 # cwGp4RcJ
 
-Quick start:
+A simple app to understand the deployment process in Netlify.
 
-```
-$ npm install
-$ npm start
-````
-
-
+https://stalwart-kataifi-05613f.netlify.app/
